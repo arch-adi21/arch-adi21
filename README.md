@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Springboot, MYSQL, Hibernate, HTML, CSS, Javascript, Data Structures and Algorithms.**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)**
