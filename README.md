@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="animated type out" width="100%"/> -->
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Faimresearch.co%2Fmarket-industry%2Fgenerative-ai%2Fthe-evolution-of-ai-architecture-from-traditional-machine-learning-to-generative-ai&psig=AOvVaw2nGH24ziPrZ5sCHsryw3mk&ust=1705432876252000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi46dmO4IMDFQAAAAAdAAAAABBL)
+![MasterHead](https://aimresearch.co/wp-content/uploads/2023/07/artificial-intelligence-ai-and-machine-learning-ml-.jpg)
 <!-- <p>Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p> -->
 
 <h2 align="center">🌱 Data Science Enthusiast and Developer , budding at IIT Madras</h2>
