@@ -3,7 +3,7 @@
 ![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/333/105/desktop-wallpaper-understanding-ai-and-machine-learning-the-easy-way-artificial-intelligence.jpg)
 <!-- <p>Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p> -->
 
-<h2 align="center">🌱 Data Science Enthusiast cum Developer , budding at IIT Madras</h2>
+<h2 align="center">🌱 Data Science Enthusiast and Developer , budding at IIT Madras</h2>
 
 <img align= "right" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
