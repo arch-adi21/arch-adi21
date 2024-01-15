@@ -52,7 +52,7 @@
 
 ## 📈 Contribution Graph:
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singhnaman320)](https://github.com/singhnaman320/github-readme-activity-graph) -->
-![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalizadi21&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
+![Naman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalixadi21&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=- -->
 
