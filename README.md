@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Science , Machine Learning , Artificial Intelligence , Data Analysis**.
 
-- 📫 How to reach me **singhnaman320@gmail.com**
+- 📫 How to reach me **asj.reach@gmail.com**
 
 - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a>
 
