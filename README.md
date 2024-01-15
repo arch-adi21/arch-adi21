@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Naman+and+Welcome+to+my+Profile" align="middle" alt="animated type out" width="100%"/> -->
 
-![MasterHead]<a href="https://ibb.co/Ws4gGZT"><img src="https://i.ibb.co/Ws4gGZT/Github-Portfolio.png" alt="Github-Portfolio" border="0"></a>
+![MasterHead]<a href="https://ibb.co/Ws4gGZT"><img src="https://i.ibb.co/Ws4gGZT/Github-Portfolio.png" alt="Github-Portfolio" border="0" width="2240" height="1260"></a>
 <!-- <p>Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. Individuals who enjoy working in teams and are skilled at executing initiatives with a defined goal. I'm really interested in working as a software developer to enhance the user experience.</p> -->
 
 <h2 align="center">🌱 Data Science Enthusiast cum Developer , budding at IIT Madras</h2>
