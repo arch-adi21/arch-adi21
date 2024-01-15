@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **asj.reach@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a> -->
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namankumar.singh.3)
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namankumar.singh.3) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/im_singhnaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-kumar-singh-38a669167) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-siddharth-jyoti-51335324b/) 
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
