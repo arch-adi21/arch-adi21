@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)**
 
-- 💬 Ask me about **Data Structures and Algorithms, Front-End Technologies, Back-End Technologies**
+- 💬 Ask me about **Data Science , Machine Learning , Artificial Intelligence , Data Analysis**.
 
 - 📫 How to reach me **singhnaman320@gmail.com**
 
