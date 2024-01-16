@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning practical application , React Native for AppDev , System Commands on Arch-Linux and many more vivid skills**.
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)**
+<!-- - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)** -->
 
 - 💬 Ask me about **Data Science , Machine Learning , Artificial Intelligence , Data Analysis**.
 
