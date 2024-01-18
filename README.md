@@ -19,8 +19,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a> -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=arch-adi21)
-
 ## 🌐 Socials:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namankumar.singh.3) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ai.adi_kun/)
