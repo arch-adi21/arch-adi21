@@ -75,7 +75,7 @@
 
 <p align = "center">
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
-<!--   <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
+<!--   <img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
   
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
   
