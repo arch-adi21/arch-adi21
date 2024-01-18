@@ -19,6 +19,8 @@
 
 <!-- - 👨‍💻 All of my projects are available at <a href="https://singhnaman320.github.io/" target="blank">Portfolio</a> -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## 🌐 Socials:
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/namankumar.singh.3) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ai.adi_kun/)
@@ -72,7 +74,6 @@
   <img width = 47.2% src="https://github-readme-stats.vercel.app/api?username=arch-adi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <img width = 51.9% src="https://github-readme-streak-stats.herokuapp.com/?user=arch-adi21&theme=dark&hide_border=false"/>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arch-adi21)](https://git.io/streak-stats)
 
 <p align = "center">
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
