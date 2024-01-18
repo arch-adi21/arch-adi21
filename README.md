@@ -72,6 +72,7 @@
   <img width = 47.2% src="https://github-readme-stats.vercel.app/api?username=arch-adi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <img width = 51.9% src="https://github-readme-streak-stats.herokuapp.com/?user=arch-adi21&theme=dark&hide_border=false"/>
 </p>
+[![Streaks](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats
 
 <p align = "center">
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
