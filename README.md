@@ -68,7 +68,7 @@
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
 
 ## 📊 GitHub Stats:
-<p align = "center">
+<!-- <p align = "center">
   <img width = 47.2% src="https://github-readme-stats.vercel.app/api?username=arch-adi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <img width = 51.9% src="https://github-readme-streak-stats.herokuapp.com/?user=arch-adi21&theme=dark&hide_border=false"/>
 </p>
@@ -79,16 +79,16 @@
   
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
   
-  <img width = 49.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch-adi21&theme=github_dark&hide_border=false"/>
+ <!-- <img width = 49.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch-adi21&theme=github_dark&hide_border=false"/>
   <img width = 49.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arch-adi21&theme=github_dark&hide_border=false"/>
   
-</p>
+</p> -->
 
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
 <!-- OR -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=singhnaman320&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhnaman320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+ ![](https://github-readme-stats.vercel.app/api?username=arch-adi21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arch-adi21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arch-adi21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==  -->
