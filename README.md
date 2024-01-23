@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning practical application , React Native for AppDev , System Commands on Arch-Linux and many more vivid skills**.
+- 🌱 I’m currently learning **Machine Learning practical application , React Native for AppDev , Rust for backend, System Commands on Arch-Linux and many more vivid skills**.
 
 <!-- - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1IKKp4HKD-KcG-z7p4GWVuy3b_DDGkQjQ/view?usp=sharing)** -->
 
