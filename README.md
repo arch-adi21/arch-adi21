@@ -5,7 +5,7 @@
 
 <h2 align="center">🌱 Data Science Enthusiast and Developer , budding at IIT Madras</h2>
 
-<img align= "center" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align= "left" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
 
